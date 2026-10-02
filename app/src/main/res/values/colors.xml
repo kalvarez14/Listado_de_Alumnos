@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme Palette -->
+    <color name="primary">#1E40AF</color> <!-- Indigo / Royal Blue -->
+    <color name="primary_variant">#1D4ED8</color>
+    <color name="primary_light">#3B82F6</color>
+    <color name="primary_container">#EFF6FF</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="secondary">#0EA5E9</color> <!-- Sky Blue -->
+    <color name="accent">#06B6D4</color>
+
+    <color name="background">#F1F5F9</color> <!-- Light Slate -->
+    <color name="surface">#FFFFFF</color>
+    <color name="card_stroke">#E2E8F0</color>
+
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_hint">#94A3B8</color>
+
+    <color name="chip_bg">#DBEAFE</color>
+    <color name="chip_text">#1E40AF</color>
+</resources>

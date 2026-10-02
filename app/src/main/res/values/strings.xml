@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Listado de Alumnos</string>
+    <string name="title_alumnos">Directorio Estudiantil</string>
+    <string name="subtitle_alumnos">Consulta y actualización de la base de datos de SQLite</string>
+    <string name="no_alumnos">No hay alumnos registrados</string>
+    <string name="editar_alumno">Actualizar Alumno</string>
+    <string name="agregar_alumno">Nuevo Alumno</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="cuenta">Número de Cuenta</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="cuenta_formato">Cuenta: %1$s</string>
+    <string name="total_alumnos_formato">Total de alumnos: %1$d. Toca un elemento para actualizar.</string>
+    <string name="imagen_url">URL de Fotografía / Imagen</string>
+    <string name="guardar">Guardar Cambios</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="no_delete_notice">Nota: La función de eliminación está desactivada para garantizar la preservación de datos. Puede actualizar la información requerida.</string>
+</resources>
